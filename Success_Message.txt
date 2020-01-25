@@ -1,5 +1,7 @@
 # message
 # 안녕하세요, Tuna_Eye 입니다
+# Github
+# 깃허브
 
 # 실험적으로  github 를 해보고 있습니다.
 # 잘됐으면 좋겠네요
